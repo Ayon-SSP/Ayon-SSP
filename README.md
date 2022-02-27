@@ -1,6 +1,11 @@
 ### Hi there 👋
-<a href='https://www.linkedin.com/in/ayon-k'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/ayonssp'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+### Hi there 👋
+<a href='https://www.linkedin.com/in/ayon-k'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href='https://twitter.com/ayonssp'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href='https://www.instagram.com/_ayon_.07'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href='https://www.linkedin.com/in/ayon-k'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
+
+<br/>
 <br>
 ![METRICS_IMAGE](github-metrics.svg)
 
