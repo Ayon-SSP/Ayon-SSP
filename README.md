@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://visitorbadge.io/status?path=AYON_SSP"><img src="https://api.visitorbadge.io/api/daily?path=AYON_SSP&label=VISITORS&labelColor=%232ccce4&countColor=%23697689" /></a>
+<a href="https://visitorbadge.io/status?path=AYON_SSP"><img src="https://api.visitorbadge.io/api/combined?path=AYON_SSP&label=AYON%20(VISITORS)&labelColor=%232ccce4&countColor=%23697689" /></a>
 
 <a href='https://www.linkedin.com/in/ayon-k' target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href='https://twitter.com/ayonssp'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
