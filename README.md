@@ -7,7 +7,7 @@
 <a href='https://www.linkedin.com/in/ayon-k'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
 <br>
 <br>
-# 👨🏻‍💻 Coding Profiles
+## 👨🏻‍💻 Coding Profiles
 
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/60/undefined/GeeksforGeeks.png"/></a>
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/bubbles/50/undefined/codechef.png"/></a>
@@ -15,7 +15,8 @@
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
 <br>
 <br>
-## 📈 Stats
+## ⚡ Technologies
+### 📈 Stats
 
 <table>
 <tr>
