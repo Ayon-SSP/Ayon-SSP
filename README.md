@@ -14,7 +14,20 @@
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
 <br>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayon-ssp&label=Profile%20views&color=0e75b6&style=flat" alt="ayon-ssp" /> </p> -->
+<br>
+## 📈 Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ayon-ssp&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayon-ssp&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayon-ssp&theme=tokyonight" />
+</p>
 
 ![METRICS_IMAGE](github-metrics.svg)
 
