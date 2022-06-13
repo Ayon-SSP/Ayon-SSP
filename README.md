@@ -7,7 +7,7 @@
 <a href='https://www.linkedin.com/in/ayon-k'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
 <br>
 <br>
-## 👨🏻‍💻 Coding Profiles
+# 👨🏻‍💻 Coding Profiles
 
 <a href='https://www.linkedin.com/in/ayon-k' target="_blank"><img src="https://img.icons8.com/color/60/undefined/GeeksforGeeks.png"/></a>
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/bubbles/50/undefined/codechef.png"/></a>
