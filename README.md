@@ -18,7 +18,10 @@
 ## ⚙️ Technologies
 
 ### Language
-<a href='https://github.com/Ayon-SSP'><img src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/res/Python.gif"/></a>
+<!-- <a href='https://github.com/Ayon-SSP'><img src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/res/Python.gif"/></a> -->
+<a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/python--v1.png"/></a>
+<a href='https://github.com/Ayon-SSP'></a>
+<a href='https://github.com/Ayon-SSP'></a>
 
 ## 📈 Stats
 
