@@ -19,7 +19,7 @@
 
 ## ⚙️ Technologies
 
-### Language
+### Language:
 <!-- <a href='https://github.com/Ayon-SSP'><img src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/res/Python.gif"/></a> -->
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/python--v1.png"/></a>
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/></a>
@@ -28,7 +28,7 @@
 <!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/></a> -->
 <!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/></a> -->
 
-### Tools
+### Tools:
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/></a>
 <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/pycharm.png"/></a>
 <a href='https://github.com/Ayon-SSP'></a>
