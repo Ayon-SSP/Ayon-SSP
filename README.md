@@ -29,6 +29,7 @@
 <!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/></a> -->
 <!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/css3.png"/></a> -->
 <!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/></a> -->
+<a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/undefined/external-algorithms-data-analytics-flaticons-flat-flat-icons.png"/></a>
 
 
 ### Tools:
@@ -37,7 +38,6 @@
 <a href='https://github.com/Ayon-SSP'></a>
 
 
-<a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/undefined/external-algorithms-data-analytics-flaticons-flat-flat-icons.png"/></a>
 
 ## 📈 Stats 
 
