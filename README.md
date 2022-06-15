@@ -37,7 +37,7 @@
 <a href='https://github.com/Ayon-SSP'></a>
 
 
-<!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/undefined/external-algorithms-data-analytics-flaticons-flat-flat-icons.png"/></a> -->
+<a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/undefined/external-algorithms-data-analytics-flaticons-flat-flat-icons.png"/></a>
 
 ## 📈 Stats 
 
