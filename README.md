@@ -1,4 +1,5 @@
-# Hi I am Ayon! Great to see You here <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+# Hay! I am Ayon <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+<!-- add hay happy </coding>  .. < and > with different colores -->
 <a href="https://visitorbadge.io/status?path=AYON_SSP"><img src="https://api.visitorbadge.io/api/combined?path=AYON_SSP&label=AYON%20(VISITORS)&labelColor=%232ccce4&countColor=%23697689" /></a>
 
 
@@ -10,10 +11,10 @@
 <br>
 ## 👨🏻‍💻 Coding Profiles
 
-<a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
-<a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/48/undefined/codechef.png"/></a>
-<a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/color/60/undefined/GeeksforGeeks.png"/></a>
-<a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
+<a href='https://leetcode.com/ayon_ssp/'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+<a href='https://www.codechef.com/users/ayon_ssp'><img src="https://img.icons8.com/color/48/undefined/codechef.png"/></a>
+<a href='https://auth.geeksforgeeks.org/user/ayonssp/articles'><img src="https://img.icons8.com/color/60/undefined/GeeksforGeeks.png"/></a>
+<a href='https://www.hackerrank.com/ayon_ssp'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
 <a href='https://github.com/Ayon-SSP'></a>
 <!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/bubbles/50/undefined/codechef.png"/></a> -->
 <br>
@@ -53,12 +54,15 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayon-ssp&theme=tokyonight" />
 </p>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayon-ssp&theme=tokyonight"/> -->
+
+
 
 ![bar](https://spotify-bar.vercel.app/api/now-playing)
 
 ![METRICS_IMAGE](github-metrics.svg)
 
-
+## Happy </coding<coding>> 
 
 
 <!--
