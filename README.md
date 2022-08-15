@@ -56,8 +56,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayon-ssp&theme=tokyonight" />
 </p>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayon-ssp&theme=tokyonight"/> -->
+<!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayon-ssp&theme=vue"/> -->
 
-
+<p align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayon-ssp&theme=tokyonight" />
+</p>
 
 ![bar](https://spotify-bar.vercel.app/api/now-playing)
 
