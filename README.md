@@ -63,6 +63,9 @@
 <p align="center">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayon-ssp&theme=tokyonight" />
 </p>
+<p align="center">
+<img height="273em" src="https://leetcard.jacoblin.cool/ayon_ssp?theme=light&ext=contest"/>
+</p>
 
 ![bar](https://spotify-bar.vercel.app/api/now-playing)
 
