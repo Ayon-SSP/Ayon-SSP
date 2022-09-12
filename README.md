@@ -1,4 +1,4 @@
-# Hay! I am Ayon <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px"> , I'm Ayon Karmakar</h1>
 <!-- add hay happy </coding>  .. < and > with different colores -->
 <a href="https://visitorbadge.io/status?path=AYON_SSP"><img src="https://api.visitorbadge.io/api/combined?path=AYON_SSP&label=AYON%20(VISITORS)&labelColor=%232ccce4&countColor=%23697689" /></a>
 
