@@ -1,9 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px"> , I'm Ayon Karmakar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px"> , I'm <a href='https://linktr.ee/AYON_SSP' target="_blank">Ayon Karmakar</a></h1>
 <!-- add hay happy </coding>  .. < and > with different colores -->
 
 <h3 align="center">A technocrat who loves to Learn And Develop !</h3>
-
-
 
 <a href='https://www.linkedin.com/in/ayon-k' target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href='https://twitter.com/ayonssp'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
