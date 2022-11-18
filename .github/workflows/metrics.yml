@@ -80,7 +80,7 @@ jobs:
           plugin_lines_repositories_limit: 2
           plugin_lines_history_limit: 1
 
-          📌 Starred topics
+          # 📌 Starred topics
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
