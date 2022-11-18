@@ -24,6 +24,8 @@ jobs:
 
           plugin_introduction: yes
           plugin_introduction_title: yes
+
+
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -75,15 +77,19 @@ jobs:
 
           # 👨‍💻 Lines of code changed
           plugin_lines: yes
-          plugin_lines_sections: repositories, history
+          plugin_lines_sections: repositories
           # plugin_lines_sections: base # only in the top
-          plugin_lines_repositories_limit: 2
-          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_history_limit: 10
 
           # 📌 Starred topics
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+
+          # 🌟 Recently starred repositories
+          plugin_stars: yes
+          plugin_stars_limit: 3
 
 
           # plugin_isocalendar: yes
