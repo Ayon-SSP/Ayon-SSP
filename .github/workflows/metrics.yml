@@ -69,7 +69,7 @@ jobs:
           # 🐤 Latest tweets
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: AyonSsp
+          plugin_tweets_user: ayonssp
           plugin_tweets_attachments: yes
 
 
