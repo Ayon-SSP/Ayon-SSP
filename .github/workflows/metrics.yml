@@ -28,6 +28,10 @@ jobs:
           plugin_achievements_threshold: B
           plugin_isocalendar: yes
           plugin_languages: yes
+
+
+
+
           plugin_skyline: yes
           plugin_skyline_year: 2022
           plugin_skyline_frames: 6
@@ -40,11 +44,27 @@ jobs:
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
 
+
+          # 
           plugin_followup: yes
           plugin_followup_indepth: yes
+
+
+
+          # 🗳️ Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user : ayon_ssp
           plugin_leetcode_sections: solved, skills, recent
+          
+          
+          
+          # 🐤 Latest tweets
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_attachments: yes
+          plugin_tweets_user: github
+
+
           # plugin_isocalendar: yes
           # plugin_habits: yes
           # plugin_habits_facts: yes
