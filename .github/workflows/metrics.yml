@@ -37,9 +37,11 @@ jobs:
               "wait": 4,
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
-            
+
           plugin_followup: yes
           plugin_followup_indepth: yes
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
           # plugin_isocalendar: yes
           # plugin_habits: yes
           # plugin_habits_facts: yes
