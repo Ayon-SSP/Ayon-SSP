@@ -34,11 +34,11 @@ jobs:
 
           # 🈷️ Languages activity
           plugin_languages: yes
-          plugin_languages_ignored: jupyter notebook
+          # plugin_languages_ignored: jupyter notebook
             # html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             # gnuplot
-          plugin_languages_limit: 40
-          plugin_languages_skipped: lowlighter/metrics
+          plugin_languages_limit: 20
+          # plugin_languages_skipped: lowlighter/metrics
           plugin_languages_details: lines, bytes-size
 
 
@@ -71,6 +71,19 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_user: ayonssp
           plugin_tweets_attachments: yes
+
+
+          # 👨‍💻 Lines of code changed
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          # plugin_lines_sections: base # only in the top
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1
+
+          📌 Starred topics
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
 
 
           # plugin_isocalendar: yes
