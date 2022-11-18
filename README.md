@@ -69,7 +69,8 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayon-ssp&theme=tokyonight" />
 </p>
 <p align="center">
-<img height="273em" src="https://leetcard.jacoblin.cool/ayon_ssp?theme=light&ext=contest"/>
+<!-- <img height="273em" src="https://leetcard.jacoblin.cool/ayon_ssp?theme=light&ext=contest"/> -->
+<img height="273em" src="https://leetcard.jacoblin.cool/ayon_ssp?theme=light&ext=heatmap"/>
 </p>
 
 
@@ -81,6 +82,7 @@
 
 ## Happy </coding<coding>> 
 
+---
 
 <!--
 **Ayon-SSP/Ayon-SSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -96,3 +98,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
+
+add jQuery icon
+add statics & Probability
+add figma,
+add scikit-learn
+add jupter
+
+
+add all database icons
+add all tools icons
+add all IDE icons
+add all OS icons
+add all language icons
+add all framework icons
+add all library icons
+ -->
+<!-- ![img](https://opengraph.githubassets.com/fb65b4f8a2d3646235f7dd27e05340b92063fc948744ff810c68c7fbf2547816/Ayon-SSP/SDE-Prep) -->
