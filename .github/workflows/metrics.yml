@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOCKEN }}
 
           # Options
           user: Ayon-SSP
@@ -21,6 +21,28 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
+          plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_followup: yes
+          plugin_achievements_threshold: B
+          plugin_skyline: yes
+          plugin_skyline_year: 2022
+          plugin_skyline_frames: 6
+          # plugin_skyline_quality: 1
+          # plugin_skyline_settings: |
+          #   {
+          #     "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+          #     "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+          #     "wait": 4,
+          #     "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+          #   }
+          # plugin_habits: yes
+          # plugin_habits_facts: yes
+          # plugin_habits_charts: no
+          # plugin_anilist: yes
+          # plugin_anilist_medias: anime
+          # plugin_anilist_sections: favorites, watching
+          # plugin_anilist_limit: 4
+          # plugin_anilist_user: zman1x1
+          # plugin_rss: yes
+          # plugin_rss_source: https://saicharankandukuri.github.io/index.xml
+          # plugin_rss_limit: 4
