@@ -39,6 +39,7 @@ jobs:
             # gnuplot
           plugin_languages_limit: 40
           plugin_languages_skipped: lowlighter/metrics
+          plugin_languages_details: lines, bytes-size
 
 
 
@@ -64,8 +65,6 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user : ayon_ssp
           plugin_leetcode_sections: solved, skills, recent
-          
-          
           
           # 🐤 Latest tweets
           plugin_tweets: yes
