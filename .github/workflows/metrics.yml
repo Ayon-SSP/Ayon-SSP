@@ -95,6 +95,10 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
 
+          # 🧑‍🤝‍🧑 People
+          plugin_people: yes
+          plugin_people_types: followers
+
 
           # plugin_isocalendar: yes
           # plugin_habits: yes
