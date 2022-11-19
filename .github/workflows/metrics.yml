@@ -41,9 +41,9 @@ jobs:
             # html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             # gnuplot
           plugin_languages_limit: 10
-          plugin_languages_categories: most-used
+          # plugin_languages_categories: most-used
           plugin_languages_details: bytes-size, lines
-          plugin_languages_sections: most-used
+          # plugin_languages_sections: most-used
           plugin_languages_indepth: yes
 
 
@@ -89,6 +89,10 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+
+          # 🌟 Recently starred repositories
+          plugin_stars: yes
+          plugin_stars_limit: 3
 
           # 🌟 Recently starred repositories
           plugin_stars: yes
