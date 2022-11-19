@@ -104,6 +104,13 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_pinned: 2
 
+          # 🏆 Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+
+
+
 
 
           # plugin_isocalendar: yes
