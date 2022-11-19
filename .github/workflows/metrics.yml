@@ -21,9 +21,12 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
 
-          # 🙋 Introduction
+            # 🙋 Introduction
           plugin_introduction: yes
           plugin_introduction_title: yes
+
+          # 🥠 Fortune
+          plugin_fortune: yes
 
           # 🏆 Achievements
           plugin_achievements: yes
