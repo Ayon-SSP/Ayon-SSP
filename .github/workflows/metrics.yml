@@ -94,10 +94,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
 
-          # 🌟 Recently starred repositories
-          plugin_stars: yes
-          plugin_stars_limit: 3
-
 
           # plugin_isocalendar: yes
           # plugin_habits: yes
