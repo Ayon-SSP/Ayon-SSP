@@ -21,15 +21,13 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
 
-
+          # 🙋 Introduction
           plugin_introduction: yes
           plugin_introduction_title: yes
-
 
           # 🏆 Achievements
           plugin_achievements: yes
           plugin_achievements_threshold: C
-
 
           # 🈷️ Languages activity
           plugin_languages: yes
@@ -44,9 +42,7 @@ jobs:
           # plugin_languages_categories: most-used
           # plugin_languages_sections: most-used
 
-
-
-
+          # 🌇 GitHub Skyline
           plugin_skyline: yes
           plugin_skyline_year: 2022
           plugin_skyline_frames: 6
