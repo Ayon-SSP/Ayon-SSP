@@ -98,6 +98,12 @@ jobs:
           # 🧑‍🤝‍🧑 People
           plugin_people: yes
           plugin_people_types: followers
+          plugin_people_limit: 100
+
+          # 📓 Featured repositories
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
+
 
 
           # plugin_isocalendar: yes
