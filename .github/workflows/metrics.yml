@@ -1,4 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+# credits to @SaicharanKandukuri & Me
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -58,7 +59,6 @@ jobs:
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
 
-
           # 🎟️ Follow-up of issues and pull requests
           plugin_followup: yes
           plugin_followup_indepth: yes
@@ -99,22 +99,3 @@ jobs:
           # 📓 Featured repositories
           plugin_repositories: yes
           plugin_repositories_pinned: 2
-
-
-
-
-
-
-
-          # plugin_isocalendar: yes
-          # plugin_habits: yes
-          # plugin_habits_facts: yes
-          # plugin_habits_charts: no
-          # plugin_anilist: yes
-          # plugin_anilist_medias: anime
-          # plugin_anilist_sections: favorites, watching
-          # plugin_anilist_limit: 4
-          # plugin_anilist_user: zman1x1
-          # plugin_rss: yes
-          # plugin_rss_source: https://saicharankandukuri.github.io/index.xml
-          # plugin_rss_limit: 4
