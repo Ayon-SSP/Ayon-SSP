@@ -26,9 +26,6 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
 
-          # 🥠 Fortune
-          plugin_fortune: yes
-
           # 🏆 Achievements
           plugin_achievements: yes
           plugin_achievements_threshold: C
@@ -103,3 +100,6 @@ jobs:
           # 📓 Featured repositories
           plugin_repositories: yes
           plugin_repositories_pinned: 2
+
+          # 🥠 Fortune
+          plugin_fortune: yes
