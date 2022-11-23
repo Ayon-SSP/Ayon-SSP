@@ -46,6 +46,10 @@ jobs:
           # plugin_languages_categories: most-used
           # plugin_languages_sections: most-used
 
+          # ♐ Random code snippet
+          plugin_code: yes
+          plugin_code_languages: python, php
+
           # 🌇 GitHub Skyline
           plugin_skyline: yes
           plugin_skyline_year: 2022
@@ -99,7 +103,3 @@ jobs:
           # 📓 Featured repositories
           plugin_repositories: yes
           plugin_repositories_pinned: 2
-
-          # ♐ Random code snippet
-          plugin_code: yes
-          plugin_code_languages: python, php
