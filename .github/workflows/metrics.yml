@@ -99,3 +99,7 @@ jobs:
           # 📓 Featured repositories
           plugin_repositories: yes
           plugin_repositories_pinned: 2
+
+          # ♐ Random code snippet
+          plugin_code: yes
+          plugin_code_languages: python, php
