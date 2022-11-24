@@ -15,6 +15,10 @@
 </div>
 
 
+## Watch my contribution graph get eaten by the snake 🐍
+
+![snake gif](https://github.com/Ayon-ssp/Ayon-ssp/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="65" /> 
@@ -24,6 +28,3 @@
 ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
 
-## Watch my contribution graph get eaten by the snake 🐍
-
-![snake gif](https://github.com/Ayon-ssp/Ayon-ssp/blob/output/github-contribution-grid-snake.gif)
