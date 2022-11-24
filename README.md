@@ -23,7 +23,7 @@
 ![bar](https://spotify-bar.vercel.app/api/now-playing)
 ## Watch my contribution graph get eaten by the snake 🐍
 
-![snake gif](https://github.com/Ayon-ssp/Ayon-ssp/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Ayon-SSP/Ayon-SSP/blob/output/github-contribution-grid-snake.svg)
 
 ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 
