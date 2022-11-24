@@ -1,4 +1,4 @@
-[![@ayonssp's Holopin board](https://holopin.io/api/user/board?user=ayonssp)](https://holopin.io/@ayonssp)
+<!-- [![@ayonssp's Holopin board](https://holopin.io/api/user/board?user=ayonssp)](https://holopin.io/@ayonssp) -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px"> , I'm <a href='https://linktr.ee/AYON_SSP' target="_blank">Ayon Karmakar</a></h1>
 
