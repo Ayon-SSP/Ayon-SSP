@@ -4,6 +4,8 @@
 
 <!-- <h3 align="center">A technocrat who loves to Learn And Develop !</h3> -->
 
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
 <p align="center">
     <img src="github-metrics.svg" >
 </p>
