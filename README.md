@@ -19,6 +19,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Connect to a PostgreSQL database&lpar;python&rpar;.](https://dev.to/ayon_ssp/connect-to-a-postgresql-databasepython-4fkd)
 - [Importing Files📁 from different Folder🗃️](https://dev.to/ayon_ssp/importing-files-from-different-folder-7c6)
 <!-- BLOG-POST-LIST:END -->
 
