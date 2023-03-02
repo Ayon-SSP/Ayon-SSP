@@ -1,6 +1,6 @@
 <!-- [![@ayonssp's Holopin board](https://holopin.io/api/user/board?user=ayonssp)](https://holopin.io/@ayonssp) -->
 
-<h1 align="center">Hi 👋, I'm <a href='https://linktr.ee/AYON_SSP' target="_blank">Ayon Karmakar</a></h1>
+<h1 align="center">Hi 👋, I'm <a href='https://linktr.ee/AYON_SSP' target="_blank">Ayon Karmakar</a><img src="https://octodex.github.com/images/skatetocat.png" width="30"></h1>
 
 <!-- <h3 align="center">A technocrat who loves to Learn And Develop !</h3> -->
 
