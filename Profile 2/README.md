@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href='https://linktr.ee/AYON_SSP' target="_blank">Ayon</a>! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm <a href='https://linktr.ee/AYON_SSP' target="_blank">Ayon</a>! <img src="https://octodex.github.com/images/Terracottocat_Single.png" width="50"></h2>
 <!-- <img align='right' src="https://octodex.github.com/images/baracktocat.jpg" width="230"> -->
 <img align='right' src="https://octodex.github.com/images/Fintechtocat.png" width="230">
 
