@@ -10,10 +10,6 @@
     <img src="github-metrics.svg" >
 </p>
 
-
-
-
-
 <div align="center">
 
 
@@ -29,10 +25,11 @@
 
 
 <div align="center">
-    
 
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="65" /> 
+
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="65" />
 <a href="https://visitorbadge.io/status?path=AYON_SSP"><img src="https://api.visitorbadge.io/api/combined?path=AYON_SSP&label=AYON%20(VISITORS)&labelColor=%232ccce4&countColor=%23697689" /></a><img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="65" />
+
 
 ![bar](https://spotify-bar.vercel.app/api/now-playing)
 ## Watch my contribution graph get eaten by the snake 🐍
