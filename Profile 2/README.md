@@ -1,6 +1,6 @@
 <h2> Hi, I'm <a href='https://linktr.ee/AYON_SSP' target="_blank">Ayon</a>! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://octodex.github.com/images/baracktocat.jpg" width="230">
-
+<!-- <img align='right' src="https://octodex.github.com/images/baracktocat.jpg" width="230"> -->
+<img align='right' src="https://octodex.github.com/images/Fintechtocat.png" width="230">
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/AyonSsp?style=social)](https://twitter.com/AyonSsp)
 [![Linkedin: Ayon-ssp](https://img.shields.io/badge/-Ayonssp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayon-ssp/)](https://www.linkedin.com/in/ayon-ssp/)
