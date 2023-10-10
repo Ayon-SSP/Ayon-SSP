@@ -2,6 +2,7 @@
 <!-- <img align='right' src="https://octodex.github.com/images/baracktocat.jpg" width="230"> -->
 <!-- <img align='right' src="https://octodex.github.com/images/Fintechtocat.png" width="230"> -->
 <!-- <img align='right' src="https://octodex.github.com/images/topguntocat.png" width="230"> -->
+<!-- <img align='right' src="https://octodex.github.com/images/jetpacktocat.png" width="230"> -->
 <img align='right' src="https://octodex.github.com/images/jetpacktocat.png" width="230">
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/AyonSsp?style=social)](https://twitter.com/AyonSsp)
@@ -14,18 +15,23 @@
 ```javascript
 const Ayon_ssp = {
   pronouns: "he" | "him",
-  code: [Python, C++, Java, SQL, Javascript, Typescript, HTML, CSS, PHP],
-  tools & Tech: [Django, React, vscode, Node, PostgreSQL, Docker, Linux, Git],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techWork: {
-                        Competitive Programming: "Solving Problems",
-                        OPEN SOURCE Dev : "RandomCoderOrg",
-                        Technical Content Writer: "GeeksForGeeks"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on Django, Django REST api, React and DSA"
+  Iam : ["Software Developer", "OPEN SOURCE Dev", "Competitive Programming"],
+  code: [Python, SQL, Javascript, CSS, PHP, C/C++],
+  tools & Tech: [Django, Django-REST, React JS, vscode, Node, PostgreSQL, Docker, Linux, Git, Flask, HTML, Postman],
+  TechWork: {
+          Competitive Programming: "Solving Problems",
+          OPEN SOURCE Dev : "RandomCoderOrg",
+    },
+  Experience: {
+          Technical Content Writer: "GeeksForGeeks",
+          Software Developer Intern: "ENITIATE(Product Based Startup)",
+          Software Developer Intern + Fulltime: "Mastek"
+    },
+ challenge: "Currently I'm focused on Django, Django REST api, React and DSA"
 }
 ```
 
+<!--  {4★ on CodeChef} {1564 rating on LeetCode} -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
