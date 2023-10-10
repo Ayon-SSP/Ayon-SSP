@@ -24,8 +24,8 @@ const Ayon_ssp = {
     },
   Experience: {
           Technical Content Writer: "GeeksForGeeks",
-          Software Developer Intern: "ENITIATE(Product Based Startup)",
-          Software Developer Intern + Fulltime: "Mastek"
+          Software_Developer Intern: "ENITIATE(Product Based Startup)",
+          Software_Developer Intern + Fulltime: "Mastek"
     },
  challenge: "Currently I'm focused on Django, Django REST api, React and DSA"
 }
