@@ -1,44 +1,34 @@
-<!-- [![@ayonssp's Holopin board](https://holopin.io/api/user/board?user=ayonssp)](https://holopin.io/@ayonssp) -->
+<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Ayon</a>! <img src="Profile2/run.png" width="100"></h2>
 
-<h1 align="center">Hi 👋, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Ayon Karmakar</a><img src="https://octodex.github.com/images/spidertocat.png" width="30"></h1>
+![Cover](Profile2/coverImg.gif)
 
-<!-- <h3 align="center">A technocrat who loves to Learn And Develop !</h3> -->
-
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
-
-<p align="center">
-    <img src="github-metrics.svg" >
-</p>
-
-<div align="center">
-
-
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [🌳tree command](https://dev.to/ayon_ssp/tree-command-3c5k)
-- [Connect to a PostgreSQL database&lpar;python&rpar;.](https://dev.to/ayon_ssp/connect-to-a-postgresql-databasepython-4fkd)
-- [Importing Files📁 from different Folder🗃️](https://dev.to/ayon_ssp/importing-files-from-different-folder-7c6)
-<!-- BLOG-POST-LIST:END -->
-
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
-</div>
+<img align='right' src="Profile2/robhi.gif" width="230">
+<img align='right' src="Profile2/python.gif" width="33">
+<img align='right' src="Profile2/vs.gif" width="30">
+<img align='right' src="Profile2/react.gif" width="30">
+<img align='right' src="Profile2/django.png" width="30">
 
 
 
-<div align="center">
+### <img src="Profile2/cofi.png" width="50">  About Me
 
-
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="65" />
-<a href="https://visitorbadge.io/status?path=AYON_SSP"><img src="https://api.visitorbadge.io/api/combined?path=AYON_SSP&label=AYON%20(VISITORS)&labelColor=%232ccce4&countColor=%23697689" /></a><img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="65" />
-
-
-![bar](https://spotify-bar.vercel.app/api/now-playing)
-## Watch my contribution graph get eaten by the snake 🐍
-
-![snake gif](https://github.com/Ayon-SSP/Ayon-SSP/blob/output/github-contribution-grid-snake.svg)
-
-### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
-
-
-</div>
-
+```javascript
+const Ayon_ssp = {
+  pronouns: "he" | "him",
+  Iam : ["Software Developer", "OPEN SOURCE Dev", "Competitive Programming"],
+  code: [Python, SQL, Javascript, CSS, PHP, C/C++],
+  tools & Tech: [Django, Django-REST, React JS, vscode, Node, PostgreSQL, Docker, Linux, Git, Flask, HTML, Postman],
+  TechWork: {
+          Competitive Programming: "Solving Problems",
+          OPEN SOURCE Dev : "RandomCoderOrg",
+    },
+  Experience: {
+          Technical Content Writer: "GeeksForGeeks",
+          Software_Developer Intern: "ENITIATE(Product Based Startup)",
+          Software_Developer (Intern + Fulltime): "Mastek"
+    },
+ challenge: "Currently I'm focused on Django, Django REST api, React and DSA"
+}
+```
+<img align='left' src="Profile2/dance.gif" width="50">
+<h3>Let's connect and learn together!</h3>
