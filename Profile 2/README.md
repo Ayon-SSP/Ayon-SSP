@@ -42,10 +42,10 @@ const Ayon_ssp = {
 
 <!--  {4★ on CodeChef} {1564 rating on LeetCode} -->
 
+### Bye<img src="dance.gif" width="50">, Nice to Meet You !!
 
 <div style="text-align: center;">
 
-### Bye<img src="dance.gif" width="50">, Nice to Meet You !!
 </div>
 
 ```
