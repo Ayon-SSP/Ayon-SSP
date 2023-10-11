@@ -1,4 +1,5 @@
-<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Ayon</a>! <img src="https://octodex.github.com/images/skatetocat.png" width="100"></h2>
+<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Ayon</a>! <img src="run.png" width="100"></h2>
+<!-- <h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Ayon</a>! <img src="https://octodex.github.com/images/skatetocat.png" width="100"></h2> -->
 
 <!-- ![Cover](Ayon_ssp-cover.png) -->
 ![Cover](coverImg.gif)
@@ -14,7 +15,7 @@
 [![GitHub Ayon-ssp](https://img.shields.io/github/followers/Ayon-ssp?label=follow&style=social)](https://github.com/Thaiane)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="cofi.png" width="50"> A little more about me...
 
 ```javascript
 const Ayon_ssp = {
