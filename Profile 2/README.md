@@ -42,7 +42,8 @@ const Ayon_ssp = {
 
 <!--  {4★ on CodeChef} {1564 rating on LeetCode} -->
 
-<h3> Bye <img src="dance.gif" width="50">, Nice to Meet You !!</h3>
+<img align='left' src="dance.gif" width="50">
+<h3>Let's connect and learn together!</h3>
 
 <!-- ![img](dance.gif) -->
 
