@@ -9,13 +9,17 @@
 <!-- <img align='right' src="https://octodex.github.com/images/jetpacktocat.png" width="230"> -->
 <!-- <img align='right' src="https://octodex.github.com/images/jetpacktocat.png" width="230"> -->
 <img align='right' src="robhi.gif" width="230">
+<img align='right' src="python.gif" width="33">
+<img align='right' src="vs.gif" width="30">
+<img align='right' src="react.gif" width="30">
+<img align='right' src="django.png" width="30">
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/AyonSsp?style=social)](https://twitter.com/AyonSsp)
+<!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/AyonSsp?style=social)](https://twitter.com/AyonSsp)
 [![Linkedin: Ayon-ssp](https://img.shields.io/badge/-Ayonssp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayon-ssp/)](https://www.linkedin.com/in/ayon-ssp/)
-[![GitHub Ayon-ssp](https://img.shields.io/github/followers/Ayon-ssp?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Ayon-ssp](https://img.shields.io/github/followers/Ayon-ssp?label=follow&style=social)](https://github.com/Thaiane) -->
 
 
-### <img src="cofi.png" width="50"> A little more about me...
+### <img src="cofi.png" width="50">  About Me
 
 ```javascript
 const Ayon_ssp = {
