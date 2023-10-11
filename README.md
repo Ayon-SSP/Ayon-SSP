@@ -2,7 +2,7 @@
 
 ![Cover](Profile2/coverImg.gif)
 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="230">
+
 <img align='right' src="Profile2/python.gif" width="33">
 <img align='right' src="Profile2/vs.gif" width="30">
 <img align='right' src="Profile2/react.gif" width="30">
