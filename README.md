@@ -1,4 +1,4 @@
-# Hi, I'm <a href='https://ayon-ssp-portfolio.netlify.app/' target="_blank">Ayon</a>! <img src="Profile2/run.png" width="50">
+<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Ayon</a>! <img src="Profile2/run.png" width="50"></h2>
 
 ![Cover](Profile2/coverImg.gif)
 
@@ -25,8 +25,19 @@ const Ayon_ssp = {
   Experience: {
           Technical Content Writer: "GeeksForGeeks",
           Software_Developer Intern: "ENITIATE(Product Based Startup)",
-          Software_Developer (Intern + Fulltime): "Mastek"
+          Back End Engineer: "DIGIFRILLS PVT LTD",
+          SDE Intern: "Mastek",
     },
+  WorkedOn: {
+          Mastek: "Java, PL/SQL",
+          DIGIFRILLS PVT LTD: "Node JS, MongoDB, API, Schema Design, Appwrite",
+          ENITIATE: "React JS, JavaScript, JSON Web Token (JWT), PostgreSQL, Vite",
+          RandomCoderOrgRandomCoderOrg: "Python (Programming Language), Api, yml, Linux, Github Actions",
+          GeeksForGeeks: "Python, Postgres Database, SQL(PSQL), Linux, C++",
+          College & Projects: "Python + DSA, Django, C (Programming language)",
+    },
+
+
  challenge: "Currently I'm focused on Django, Django REST api, React and DSA"
 }
 ```
