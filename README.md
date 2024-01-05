@@ -41,6 +41,6 @@ const Ayon_ssp = {
  challenge: "Currently I'm focused on Django, Django REST api, React and DSA"
 }
 ```
-<img align='left' src="Profile2/dance.gif" width="50">
+<!-- <img align='left' src="Profile2/dance.gif" width="50"> -->
 <h3>Let's connect and learn together!</h3>
 <hr>
